@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact name="stepcounter:jar">
+    <output-path>$PROJECT_DIR$/target/classes/artifacts/stepcounter_jar</output-path>
+    <root id="root">
+      <element id="archive" name="stepcounter.jar">
+        <element id="module-output" name="stepcounter" />
+      </element>
+      <element id="library" level="project" name="org.swinglabs:swingx:1.6.1" />
+      <element id="library" level="project" name="org.eclipse.ui.views.properties:tabbed:3.3.0-I20070605-0010" />
+      <element id="library" level="project" name="org.eclipse.core:org.eclipse.core.resources:3.7.100" />
+      <element id="library" level="project" name="org.apache.ant:ant:1.8.2" />
+      <element id="library" level="project" name="org.eclipse.swt:org.eclipse.swt.cocoa.macosx.x86_64:4.3" />
+      <element id="library" level="project" name="junit:junit:4.12" />
+      <element id="library" level="project" name="net.sf.jxls:jxls-core:1.0.5" />
+      <element id="library" level="project" name="org.eclipse.jdt:org.eclipse.jdt.core:3.10.0" />
+      <element id="library" level="project" name="com.googlecode.java-diff-utils:diffutils:1.2.1" />
+      <element id="library" level="project" name="org.eclipse:swt:3.3.0-v3346" />
+      <element id="library" level="project" name="org.eclipse:jface:3.3.0-I20070606-0010" />
+      <element id="library" level="project" name="org.eclipse.ui:ide:3.3.0-I20070620" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/org.dyno.visual.swing_0.9.12.I20090527-2200.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/org.dyno.visual.swing.layouts_0.9.12.I20090527-2200.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/org.dyno.visual.swing.grouplayouts_0.9.12.I20090506-2220.jar" />
+      <element id="library" level="project" name="org.apache.poi:poi:3.15" />
+    </root>
+  </artifact>
+</component>
